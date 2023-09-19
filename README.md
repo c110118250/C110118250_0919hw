@@ -61,4 +61,4 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 |    1     |    2     |          3 |
 |    4     |    5     |      6|
 
-![NKUST](nkust.jpg "高科大")
+![NKUST](logo.jpg "高科大")
