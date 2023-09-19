@@ -9,7 +9,7 @@
 #### 😄
 
 
-![NKUST](logo.jpg "nkustlogo")
+![NKUST](logo.jpg "NKUST")
 ---
 Emphasism aka italicsm with asterisks or underscores
 Strong emphasis, aka boldm with **asterisks** or **underscores**
