@@ -31,9 +31,9 @@ gantt
 ```
 ## PERT/CPM 圖
 
-![CPM](CPM.jpg "CPM")
+![PERT](PERT.png "PERT")
 
-使用者測試是11 打錯
+
 ## 關鍵路徑
 
 關鍵路徑:1->2->4->6->9->11
